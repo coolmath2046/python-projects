@@ -6,7 +6,7 @@ delay(0)
 speed(0)
 hideturtle()
 listen()
-
+# Made a change!
 def rectangle(startx,starty,ht,wdt): #Starting coordinates are based on the top-left corner
     penup()
     goto(startx,starty)
